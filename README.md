@@ -31,3 +31,6 @@ The approach involves the following detailed components:
    - Provide insights and actionable information to drive strategic decisions
    - Support the supermarket's objectives for growth, efficiency, and customer satisfaction
 
+  
+output :  ![Image](https://github.com/user-attachments/assets/b2f95b73-9ffb-4048-9b20-1af41c6cdb2b)
+
